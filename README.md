@@ -1,2 +1,2 @@
-# repo1
-idk
+This is my first git repository.
+AUTHOR - Aashi Rajpoot
